@@ -19,7 +19,7 @@ Operational tools designed for real-time logistics planning and inventory safety
 * *ABC Inventory Analysis:* Classifies inventory profiles by value to optimize warehouse space utilization and pick paths.
 
 ---
-Note: To view the interactive Power BI dashboards corresponding to this data platform, please check the NovyPro link listed on my resume.
+Note: Screenshots of 3 Power BI projects are attached in this file. 
 
 ---
 
