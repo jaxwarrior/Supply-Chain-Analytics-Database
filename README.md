@@ -20,3 +20,17 @@ Operational tools designed for real-time logistics planning and inventory safety
 
 ---
 Note: To view the interactive Power BI dashboards corresponding to this data platform, please check the NovyPro link listed on my resume.
+
+---
+
+##  Project Visual Showroom
+Below are layout previews from the business intelligence layer of this platform:
+
+### 1. Executive Supply Chain Overview
+![Executive Dashboard](Executive Supply Chain Dashboard (Power BI)
+
+### 2. Shipment Tracking & Performance Analytics
+![Shipment Dashboard](Shipment Performance Dashboard (Power BI)
+
+### 3. Warehouse Operations & KPI Monitor
+![Warehouse Dashboard](Warehouse Efficiency Dashboard (Power BI)
