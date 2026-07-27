@@ -1,16 +1,34 @@
 End-to-End Logistics & Transportation Analytics Platform
 
-An enterprise-grade analytics portfolio engineered to optimize freight operations, carrier performance, and warehouse distribution networks using *MySQL, Power BI, and MS Excel*.
+An enterprise-grade analytics portfolio engineered to optimize freight operations, carrier performance, and warehouse distribution networks using *MySQL, Power BI, and MS Excel*. 
 
 ---
 
  1. Logistics Database Engineering & Analytics (MySQL)
-Relational database schemas designed to optimize multi-tier freight networks and isolate transit bottlenecks.
-* *Shipment Tracking Analysis:* Audits line-haul status logs to isolate regional transit bottlenecks and transit exceptions.
-* *Vendor & Carrier Performance Analysis:* Measures carrier SLA compliance and transit lead times using advanced window functions.
-* *Warehouse Inventory Analysis:* Evaluates SKU velocity, put-away timelines, and pick-pack turnaround metrics.
-* *Procurement Spend Analysis:* Identifies lane-cost variances and freight spend trends across regional distribution channels.
-* *Sales & Purchase Order Analysis:* Audits order cycle times from point-of-origin to final delivery destination.
+    
+## 1. Logistics Database Engineering & Analytics (MySQL)
+
+Developed a MySQL analytics project using the DataCo Supply Chain Dataset to generate business insights across logistics and supply chain operations.
+
+- Imported the DataCo Supply Chain Dataset into MySQL.
+- Developed and executed *25 SQL queries*.
+- Analyzed sales, customers, products, shipping, markets, and order performance.
+- Used SQL concepts including SELECT, COUNT, SUM, AVG, DISTINCT, GROUP BY, ORDER BY, and LIMIT.
+
+### Analysis Performed
+- Total Orders
+- Sales Analysis
+- Customer Segmentation
+- Product Performance
+- Category Analysis
+- Department Analysis
+- Market Analysis
+- Country-wise Sales
+- Delivery Status Analysis
+- Shipping Performance
+- Order Status Analysis
+- Quantity Analysis
+- Product Price Analysis
 
   2. Advanced Logistics Modeling & Workflow Engines (MS Excel)
 Operational tools designed for real-time logistics planning and inventory safety mitigation.
